@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "lizwebsite1",
+    "title": "Elizabeth D’Alessio",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Communications and Special Projects Coordinator - YES Manitoba\nFreelance Photographer - Studio D’Alessio\nEconomics Student - University of Winnipeg\n\n\nknitr::include_graphics(\"photo_liz.jpg\")"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,82 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Email: ejdalessio@gmail.com\nPhone: (204) 111-1111"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Email: ejdalessio@gmail.com\nPhone: (204) 111-1111"
+  },
+  {
+    "objectID": "index.html#elizabeth-dalessio",
+    "href": "index.html#elizabeth-dalessio",
+    "title": "Elizabeth D’Alessio",
+    "section": "",
+    "text": "Communications and Special Projects Coordinator - YES Manitoba\nFreelance Photographer - Studio D’Alessio\nEconomics Student - University of Winnipeg\n\n\nknitr::include_graphics(\"photo_liz.jpg\")"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Elizabeth D’Alessio",
+    "section": "About",
+    "text": "About\nHello, I’m Liz. I’m a freelance photographer, communications coordinator, and economics student living in Winnipeg, Manitoba. Artistic expression, information deep-dives, and figuring out what makes things tick are what light me up."
+  },
+  {
+    "objectID": "posts/posts.html",
+    "href": "posts/posts.html",
+    "title": "My Blog",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "cv.html#contact-information",
+    "href": "cv.html#contact-information",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Email: ejdalessio@gmail.com\nPhone: (204) 111-1111"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\n\nB.A. Economics (graduation expected 2025) - University of Winnipeg\nUWinnipeg Outbound Study Exchange (2022-2023) - Universität Bamberg (Bamberg, Germany)"
+  },
+  {
+    "objectID": "cv.html#current-positions",
+    "href": "cv.html#current-positions",
+    "title": "Curriculum Vitae",
+    "section": "Current Positions",
+    "text": "Current Positions\n\nCommunications and Special Projects Coordinator (2023-) YES Manitoba\nFreelance Photographer (2018-) - Studio D’Alessio"
+  },
+  {
+    "objectID": "cv.html#previous-positions",
+    "href": "cv.html#previous-positions",
+    "title": "Curriculum Vitae",
+    "section": "Previous Positions",
+    "text": "Previous Positions\n\nPassenger Service Agent (2021) - Westjet\nAssociate Photographer (2018-2019) - Teri Hofford Photography\nAssistant Photo Lab Manager (2013-2019) - London Drugs Photo Lab"
+  },
+  {
+    "objectID": "cv.html#awards",
+    "href": "cv.html#awards",
+    "title": "Curriculum Vitae",
+    "section": "Awards",
+    "text": "Awards\n\nDean’s Honour List Student of Distinction 2023 (Business and Economics) - University of Winnipeg\nDean’s Honour List Student of Distinction 2021 (Business and Economics) - University of Winnipeg"
+  },
+  {
+    "objectID": "posts/YYYY-MM-DD-short-post-description/index.html",
+    "href": "posts/YYYY-MM-DD-short-post-description/index.html",
+    "title": "blog post title",
+    "section": "",
+    "text": "CitationBibTeX citation:@online{d'alessio,\n  author = {D’Alessio, Elizabeth},\n  title = {Blog Post Title},\n  url = {https://ejdalessio.github.io/lizwebsite/YYYY-MM-DD-short-post-description/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nD’Alessio, Elizabeth. n.d. “Blog Post Title.” https://ejdalessio.github.io/lizwebsite/YYYY-MM-DD-short-post-description/."
   }
 ]

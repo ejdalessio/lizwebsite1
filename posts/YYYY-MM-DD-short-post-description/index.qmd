@@ -1,0 +1,14 @@
+---
+title: "blog post title"
+description: "blog post description"
+author: 
+  - name: Elizabeth D'Alessio
+  
+categories: [photos, school, work]
+
+citation:
+  url: https://ejdalessio.github.io/lizwebsite1/YYYY-MM-DD-short-post-description/
+
+image: bamberg.JPG
+draft: false
+---

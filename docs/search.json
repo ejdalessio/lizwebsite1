@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Elizabeth D’Alessio",
     "section": "",
-    "text": "Communications and Special Projects Coordinator - YES Manitoba\nFreelance Photographer - Studio D’Alessiooo\nEconomics Student - University of Winnipeg\nknitr::include_graphics(\"photo_liz.jpg\")"
+    "text": "Communications and Special Projects Coordinator - YES Manitoba\nFreelance Photographer - Studio D’Alessio\nEconomics Student - University of Winnipeg\nknitr::include_graphics(\"photo_liz.jpg\")"
   },
   {
     "objectID": "about.html",
@@ -18,7 +18,7 @@
     "href": "cv.html",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "Email: ejdalessio@gmail.com\nPhone: (204) 111-1111"
+    "text": "B.A. Economics (graduation expected 2025) - University of Winnipeg\nUWinnipeg Outbound Study Exchange (2022-2023) - Universität Bamberg (Bamberg, Germany)"
   },
   {
     "objectID": "contact.html",
@@ -59,8 +59,8 @@
     "objectID": "cv.html#education",
     "href": "cv.html#education",
     "title": "Curriculum Vitae",
-    "section": "Education",
-    "text": "Education\n\nB.A. Economics (graduation expected 2025) - University of Winnipeg\nUWinnipeg Outbound Study Exchange (2022-2023) - Universität Bamberg (Bamberg, Germany)"
+    "section": "",
+    "text": "B.A. Economics (graduation expected 2025) - University of Winnipeg\nUWinnipeg Outbound Study Exchange (2022-2023) - Universität Bamberg (Bamberg, Germany)"
   },
   {
     "objectID": "cv.html#current-positions",

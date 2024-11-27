@@ -12,7 +12,7 @@ website:
         text: CV
       - href: contact.qmd
         text: Contact
-      - href: posts.qmd
+      - href: posts/posts.qmd
         text: Blog
 
 format:
